@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&count_private=true&include_all_commits=true&layout=compact&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark)
 
 [![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
