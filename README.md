@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 🎓 GitHub Stats :
 
-![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&show_icons=true&theme=vision-friendly-dark)
+![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&count_private=true&layout=compact&show_icons=true&theme=vision-friendly-dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
