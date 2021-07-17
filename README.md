@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 GitHub Stats :
+
+![ffrancoi 42 stats](https://badge42.herokuapp.com/api/stats/ffrancoi)
+
+![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&show_icons=true&theme=vision-friendly-dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&show_icons=true&theme=vision-friendly-dark)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
