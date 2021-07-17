@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <!--![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-bottom: 100px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" style="margin-left: 5%; margin-bottom: 100px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 
