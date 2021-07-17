@@ -22,10 +22,18 @@ Here are some ideas to get you started:
 
 🎓 GitHub Stats :
 
-![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark)
+
+<!--![ffrancoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
+</a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark)-->
 
 [![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
