@@ -36,5 +36,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 
-[![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&theme=vision-friendly-dark&layout=compact&langs_count=10](https://github.com/anuraghazra/github-readme-stats)
+![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&theme=vision-friendly-dark&layout=compact&langs_count=10)
 
