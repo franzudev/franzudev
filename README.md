@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- Row -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=false&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <!-- Not synced with wakatime settings and private repositories
 <a href="https://github.com/anuraghazra/convoychat">
