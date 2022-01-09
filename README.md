@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
+🎓 Wakatime Stats :
+
 ![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&layout=compact&langs_count=10)
 
