@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 </a>
 -->
 
-![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&theme=vision-friendly-dark&layout=compact&langs_count=10)
+![franzudev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzudev&layout=compact&langs_count=10)
 
