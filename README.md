@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e618ef4d-3d1c-471e-9527-410bbea8feda.svg?style=social)](https://wakatime.com/@e618ef4d-3d1c-471e-9527-410bbea8feda)
 
-🎓 GitHub Stats :
+<!--🎓 GitHub Stats :--> 
 
 
 <!--  Column
@@ -16,10 +16,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franzudev&include_all_commits=false&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 -->
-<!-- Not synced with wakatime settings and private repositories -->
+<!-- Not synced with wakatime settings and private repositories, but only with repos
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzudev&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
-</a>
+</a>-->
 
 
 🎓 Wakatime Stats :
