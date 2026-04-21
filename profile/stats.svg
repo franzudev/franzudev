@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Federico Fran&#231;ois ' GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1919, Total PRs: 46, Total Issues: 42, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1926, Total PRs: 46, Total Issues: 42, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 136.27975693926842;
+        stroke-dashoffset: 136.27582000420801;
       }
     }
   
