@@ -5,7 +5,7 @@ I am a surveyor turned Software Engineer turned Cloud Native Engineer.
 I was born and raised in Perugia🇮🇹, but I spent 3 years in Rome's🇮🇹 tech scene.
 
 ### Work 🔨
-I am a Senior Cloud Native Engineer at [Aruba](https://aruba.com).
+I am a Senior Cloud Native Engineer at [Aruba](https://aruba.it).
 Previously: Senior Cloud Native Engineer at [Kiratech](https://kiratech.it), Full Stack Developer at [Brokenice Technologies](https://brokenice.it), DevOps Engineer at [Soft Strategy](https://www.softstrategy.it).
 
 Nowadays my focus is where platforms meet agents: running AI-assisted operations as real infrastructure — agent stacks, memory, orchestration, and the operational patterns that make autonomous systems trustworthy.
