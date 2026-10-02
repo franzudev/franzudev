@@ -5,18 +5,23 @@ I am a surveyor turned Software Engineer turned Cloud Native Engineer.
 I was born and raised in Perugia🇮🇹, but I spent 3 years in Rome's🇮🇹 tech scene.
 
 ### Work 🔨
-I am a Senior Cloud Native Engineer at [Kiratech](https://kiratech.it). I was previously a Full Stack Developer at [Brokenice Technologies](https://brokenice.it) and DevOps Engineer at [Soft Strategy](https://www.softstrategy.it).  
+I am a Senior Cloud Native Engineer at [Aruba](https://aruba.com).
+Previously: Senior Cloud Native Engineer at [Kiratech](https://kiratech.it), Full Stack Developer at [Brokenice Technologies](https://brokenice.it), DevOps Engineer at [Soft Strategy](https://www.softstrategy.it).
+
+Nowadays my focus is where platforms meet agents: running AI-assisted operations as real infrastructure — agent stacks, memory, orchestration, and the operational patterns that make autonomous systems trustworthy.
+
+### Writing ✍️
+Field notes on AI agent operations and cloud-native engineering: [franzu.dev/notes](https://franzu.dev/notes/)
 
 ### Open Source ⎈
-I'll try to be primarily active in the Kubernetes ecosystem, opening issues and reviewing documentation, while I'm improving my Go skills to become an active contributor on the codebase.
-Currently, my main focus is [Cluster API](https://github.com/kubernetes-sigs/cluster-api), a declarative multi cluster management project. You can learn more about it on [cluster-api.sigs.k8s.io](https://cluster-api.sigs.k8s.io/).
+I'm primarily active in the Kubernetes ecosystem: issues, documentation reviews, and a long-standing focus on [Cluster API](https://github.com/kubernetes-sigs/cluster-api), the declarative multi-cluster management project ([cluster-api.sigs.k8s.io](https://cluster-api.sigs.k8s.io/)).
 
 ### 🔝 Interests
 - Kubernetes
 - GitOps
-- Automation
+- AI agent operations
 - Platform Engineering
-- Continuous Improvement
+- Automation / Continuous Improvement
 
 ### Contact 🤝
 
